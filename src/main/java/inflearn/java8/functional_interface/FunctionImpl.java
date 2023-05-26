@@ -1,4 +1,4 @@
-package inflearn.java8;
+package inflearn.java8.functional_interface;
 
 import java.util.function.*;
 

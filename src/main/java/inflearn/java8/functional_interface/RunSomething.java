@@ -1,4 +1,4 @@
-package inflearn.java8;
+package inflearn.java8.functional_interface;
 
 /**
  * 함수형 인터페이스: 추상메서드가 하나만 존재
